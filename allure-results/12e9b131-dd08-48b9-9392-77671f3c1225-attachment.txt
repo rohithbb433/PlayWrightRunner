@@ -1,0 +1,5 @@
+{
+  name: [32m'Rohith'[39m,
+  job: [32m'Automation_Testing'[39m,
+  updatedAt: [32m'2022-04-01T06:38:49.410Z'[39m
+}
